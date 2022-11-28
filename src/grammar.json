@@ -3046,6 +3046,18 @@
         {
           "type": "STRING",
           "value": "inline"
+        },
+        {
+          "type": "STRING",
+          "value": "_local"
+        },
+        {
+          "type": "STRING",
+          "value": "_package"
+        },
+        {
+          "type": "STRING",
+          "value": "_global"
         }
       ]
     },
